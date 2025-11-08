@@ -1,4 +1,4 @@
-# _Jane_Mail_Manager-using-Qdrant
+# Jane_Mail_Manager-using-Qdrant
 A full-stack web application that processes emails by chunking them, converting to embeddings, and storing in a vector database for intelligent searching. Built with React frontend and Flask backend.
 
 🚀 Features
